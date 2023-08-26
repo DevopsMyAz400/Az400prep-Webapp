@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F13E7B57-2ED4-4669-B1E3-A685742250B6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AZ400__ASPNetCore__webapp PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AZ400_ASPNetCore_webapp/appsettings.json">
+    <Files>
+      <File FileName="AZ400_ASPNetCore_webapp/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AZ400_ASPNetCore_webapp" expanded="True">
+            <Node name="AZ400_ASPNetCore_webapp" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
